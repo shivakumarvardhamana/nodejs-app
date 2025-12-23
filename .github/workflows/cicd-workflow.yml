@@ -1,4 +1,4 @@
-name: CICD
+name: ECS application deployment pipeline
 
 on:
   push:
