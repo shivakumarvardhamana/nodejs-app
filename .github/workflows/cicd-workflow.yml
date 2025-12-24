@@ -1,5 +1,6 @@
 name: ECS application deployment pipeline
 
+
 on:
   push:
     branches: [ deploy-to-ecs-fargate ]
